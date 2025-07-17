@@ -107,5 +107,3 @@ Untuk memastikan Anda selalu menggunakan versi N8N terbaru:
 N8N adalah alat yang luar biasa untuk mengotomatisasi tugas Anda. Selamat mencoba\!
 
 -----
-
-Apakah Anda ingin menambahkan bagian lain atau mengubah sesuatu di README ini?
